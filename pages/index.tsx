@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </Head>
       <main className="min-h-screen bg-black flex items-center justify-center overflow-hidden relative">
